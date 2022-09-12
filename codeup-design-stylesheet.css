@@ -6,18 +6,22 @@ h1 {
     font-family: 'Anton', sans-serif;
 }
 
+h6 {
+    font-family: 'Abel', sans-serif;
+}
+
 .rounded-pill:first-of-type {
     height: 6em;
     width: 6em;
     background-color: #E6563B;
 }
 
-.rounded-pill(2) {
-    height: 6em;
-    width: 6em;
-    background-color: #EB9D3A;
-}
-
 .h2 {
     display: flex;
 }
+
+/*.col-lg-2 {*/
+/*    width: 80%;*/
+/*    border: pink 2px solid;*/
+/*}*/
+
