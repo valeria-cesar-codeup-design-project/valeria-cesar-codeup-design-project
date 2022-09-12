@@ -5,3 +5,19 @@
 h1 {
     font-family: 'Anton', sans-serif;
 }
+
+.rounded-pill:first-of-type {
+    height: 6em;
+    width: 6em;
+    background-color: #E6563B;
+}
+
+.rounded-pill(2) {
+    height: 6em;
+    width: 6em;
+    background-color: #EB9D3A;
+}
+
+.h2 {
+    display: flex;
+}
