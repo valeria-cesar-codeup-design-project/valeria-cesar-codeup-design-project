@@ -89,6 +89,16 @@ hr {
     color: black;
 }
 
+.little-picture {
+    height: 100px;
+    width: 100px;
+}
+
+.card-2 {
+    height: 100px;
+    width: 100px;
+}
+
 .last-tweet {
     width: 100%;
 }
