@@ -5,7 +5,7 @@
         font-family: 'Anton', sans-serif;
     }
 
-    h6, p {
+    h6, p, h3{
         font-family: 'Abel', sans-serif;
     }
 
@@ -114,6 +114,11 @@
         margin: auto;
         margin-top: 60px;
     }
+
+    /*.second-set-of-images {*/
+    /*    height: 50px;*/
+    /*    width: 100%;*/
+    /*}*/
 }
 
 
