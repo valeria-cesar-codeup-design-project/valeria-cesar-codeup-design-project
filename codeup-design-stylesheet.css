@@ -37,9 +37,6 @@
         visibility: hidden;
     }
 
-    /*.badge.rounded-pill:first-of-type {*/
-    /*    background-color: #E6563B;*/
-    /*}*/
     .row-cols-2 {
         margin-left: 30px;
         margin-right: 30px;
@@ -57,18 +54,10 @@
         justify-content: center;
     }
 
-    /*.col-6 {*/
-    /*    display: flex;*/
-    /*    align-items: center;*/
-    /*}*/
     .img-fluid {
         border: 10px solid #E6E6E6;
     }
 
-    /*.rounded-pill:nth-child(n) {*/
-    /*    height: 18px;*/
-    /*    width: 18px;*/
-    /*}*/
     .set-of-icons {
         display: flex;
         justify-content: space-between;
@@ -100,13 +89,6 @@
         color: black;
     }
 
-
-
-/*.col-lg-2 {*/
-/*    width: 80%;*/
-/*    border: pink 2px solid;*/
-/*}*/
-
 @media screen and (min-width: 768px) {
     hr {
         width: 80%;
@@ -114,14 +96,7 @@
         margin: auto;
         margin-top: 60px;
     }
-
-    /*.second-set-of-images {*/
-    /*    height: 50px;*/
-    /*    width: 100%;*/
-    /*}*/
 }
-
-
 
 @media screen and (min-width: 992px) {
     .title {
@@ -133,10 +108,5 @@
         align-content: flex-start;
 
     }
-
-    /*hr.other-header {*/
-    /*    visibility: visible;*/
-    /*}*/
-
 }
 
