@@ -89,14 +89,14 @@ hr {
     color: black;
 }
 
-.little-picture {
-    height: 100px;
-    width: 100px;
+.card-background {
+    background-color: #F0F0F0;
+    border: none;
 }
 
-.card-2 {
-    height: 100px;
-    width: 100px;
+.small-pictures {
+    height: 110px;
+    width: 110px;
 }
 
 .last-tweet {
@@ -123,4 +123,3 @@ hr {
 
     }
 }
-
