@@ -110,6 +110,10 @@ hr {
         margin: auto;
         margin-top: 60px;
     }
+
+    .img-fluid.small-pictures {
+        height: 100px;
+    }
 }
 
 @media screen and (min-width: 992px) {
